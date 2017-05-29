@@ -1,0 +1,37 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: url(image/bg.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.essay {
+	max-width: 800px;
+	height: 100%;
+	margin: 0 auto;
+	padding: 25px;
+	background: white;
+	opacity: 0.9;
+}
+
+.author {
+	font-family: 'Yantramanav', sans-serif;
+	font-size: 20px;
+	font-weight: 100;
+}
+
+.title {
+	font-family: 'Yantramanav', sans-serif;
+	font-size: 35px;
+	font-weight: 100;
+	text-align: center;
+}
+
+.content {
+	font-family: 'Yantramanav', sans-serif;
+	text-indent: 50px;
+}
